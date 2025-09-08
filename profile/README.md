@@ -1,60 +1,68 @@
-# Welcome to Realnaps Bet
 
-<img width="306" height="385" alt="dannyokec-realnaps-card" src="https://github.com/user-attachments/assets/08175a8e-3f89-4e6d-a828-d64bacbe477b" />
+<img width="1088" height="960" alt="Generated Image September 08, 2025 - 4_14PM" src="https://github.com/user-attachments/assets/1b9a07ae-2801-4451-97c2-3a5198054b0f" />
 
+## Official Realnaps Github Organisation
 
-Welcome to **Realnaps Bet**, a proud subsidiary of **Dannyokec Group**, dedicated to simplifying and optimizing virtual sports betting through **AI-powered predictions and automation**. We are a team of **betting analysts, AI experts, and software developers** committed to delivering data-driven insights and tools that empower users to bet smarter and more efficiently.
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![Industry](https://img.shields.io/badge/Industry-Sports%20Information-blue.svg)]()
 
-Our mission is to **empower users with intelligent systems** that enhance decision-making in virtual sports betting. Whether you're a casual bettor or a professional, Realnaps provides the precision, transparency, and innovation needed to bet with confidence.
+*   Brand Name: Realnaps
+    
+*   Parent Company: The brand is part of the Danny Okec Group, and its executives provide vision and strategic direction. Realnaps also receives support from Dannyokec Cyber Security and Software Programming (DCSSP) for developer resources, product design, and cybersecurity expertise.
+    
+*   RC Number: 1634076
+    
+*   IP Holder: Realnapsbet limited, registered under RC-1634076.
 
-## Our Core Expertise
-We combine **AI, data analytics, and automation** to create reliable betting solutions tailored for the African market and beyond.
+*   Location: Abuja, Nigeria 
+    
+*   Industry: Sports Information and solution.
+    
+*   Primary Focus: Making intelligent sports prediction and automation tools.
+    
 
-### 1. Prediction / Insight on Sports Bet Picks
-**Who is this for?** Casual and professional bettors seeking reliable tips and statistical insights.
+### Brand Mission & Vision
 
-**What we do:**
-- Analyze **patterns, odds, and performance history** to deliver real-time betting insights.
-- Provide **data-driven predictions** to help users make informed picks.
-- Focus on **accuracy and transparency** with track records and logical explanations.
+# 
 
-### 2. Bet Automation: AI Automated Betting with Limits and Targets
-**Who is this for?** High-frequency bettors, syndicates, and professionals wanting streamlined bet execution.
+*   Mission: To empower users with intelligent systems that simplify and enhance decision-making in virtual sports betting.
+    
+*   Vision: To be the most trusted provider of AI-powered sports prediction and betting automation tools in Africa and beyond.
+    
 
-**What we do:**
-- Offer **intelligent desktop software** that automates bets based on predefined strategies, limits, and conditions.
-- Enable **24/7 automation** without manual input, supporting multiple bookmakers.
-- Ensure **user control** with customizable triggers and safety features.
+### Core Products and Services
 
-## Additional Services
-Our tools are designed to solve real-world betting challenges, emphasizing **user empowerment and innovation**.
+# 
 
-### 3. Realnaps Prediction Bot (Web App)
-**Who is this for?** Bettors needing instant, real-time insights.
+1.  Prediction / Insight on Sports Outcomes: This service analyzes patterns, odds, and performance history to provide users with real-time insights on sports and sports simulations outcomes. The product is a real-time web app called Realnaps Prediction Bot.
+    
+2.  Sports Outcome Staker: This service provides an intelligent desktop application for macOS and Windows that places stakes on sports event outcomes based on predefined strategies, limits, and conditions, offering 24/7 automation. The product is called Realnaps Outcome-Placer Bot.
+    
 
-**What we do:**
-- Deliver **lightning-fast predictions** via WebSocket technology.
-- Provide a **user-friendly dashboard** with pattern analysis and premium access tiers.
-- Enhance **engagement** through freemium models for broad accessibility.
+### Business Model & Pricing
 
-### 4. Realnaps Auto-Betting Bot (Desktop App)
-**Who is this for?** Tech-savvy users seeking secure, automated betting.
+# 
 
-**What we do:**
-- Run **locally on macOS and Windows** for enhanced security and stability.
-- Support **subscription-based access** with smart strategies and limits.
-- Integrate **AI for optimized bet placement** and performance tracking.
+*   Realnaps Prediction Bot: Uses a freemium model with a free tier offering limited predictions and a premium tier for full, real-time access.
+    
+*   Realnaps Outcome-Placer Bot: Utilizes a subscription model with daily, weekly, and monthly plans.
+    
 
-## Why Work With Us?
-- **Trusted Insights** – Our focus on accuracy and transparency builds user confidence.
-- **Innovative Tools** – We lead in AI-driven betting automation and predictions.
-- **User-Centric Design** – Tools offer control, customization, and clarity.
-- **Backed by Dannyokec Group** – Benefit from expert oversight in AI, security, and strategy via DCSSP.
+### Competitive Advantage
 
-## Join Our Team
-We are always seeking **talented AI specialists, betting analysts, and developers** to join Realnaps Bet. If you’re passionate about transforming the betting industry, explore opportunities with us.
+# 
 
-📩 **Want to work with us?** Reach out and apply today!
+*   Realnaps Prediction Bot: Key advantages include lightning-fast delivery via WebSocket technology, a pattern analysis engine, and a user-friendly dashboard.
+    
+*   Realnaps Outcome-Placer Bot: Differentiates itself by running locally for enhanced security, allowing user-defined limits and triggers, and supporting multiple bookmakers.
+    
 
----
-Ready to **bet smarter and automate your strategies**? Join Realnaps Bet today and experience the future of virtual sports betting!
+### Target Audience
+
+# 
+
+*   For Prediction/Insight: Casual and professional bettors looking for reliable tips and statistical insights. The target audience for the Realnaps Prediction Bot also includes sports bettors, betting tipsters, and prediction businesses.
+    
+
+*    For Outcome-Placer: High-frequency bettors, syndicates, and professionals who want to streamline bet execution. The target audience for the Realnaps Outcome-Placer Bot includes tech-savvy bettors, betting teams, and automated strategy users.
